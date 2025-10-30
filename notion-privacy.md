@@ -64,4 +64,6 @@ We may update this Privacy Policy periodically. Any changes will be reflected wi
 
 9. Contact Us
 
-If you have any questions about this policy or the Run Logic Notion integration, please contact
+For any concerns, contact the developer of this GPT through GitHub Issues on this repository.
+
+
