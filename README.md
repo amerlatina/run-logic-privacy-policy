@@ -65,7 +65,6 @@ Born from a love for running, tech, and creativity — Run Logic blends performa
 > “You don’t have to run fast — you just have to start.” 💭  
 
 ---
----
 
 ## © Copyright Notice  
 
