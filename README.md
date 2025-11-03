@@ -1,0 +1,65 @@
+# 🏃‍♀️ Run Logic GPT  
+### Your AI running companion that plans, motivates, and tracks your runs  
+
+![Run Logic Logo]([https://raw.githubusercontent.com/amerlatina/run-logic-ai/main/runlogic-logo.png](https://github.com/amerlatina/run-logic-ai/blob/main/RunLogicLogo.png
+)<img width="502" height="19" alt="image" src="https://github.com/user-attachments/assets/de37e64f-6aa7-443a-8603-f2de106caf13" />
+)
+
+---
+
+## 🎯 Overview  
+**Run Logic GPT** helps runners train smarter with personalized 10K, 5K, and endurance plans.  
+It integrates seamlessly with **Notion** for tracking and **Spotify** for playlists — combining data, motivation, and movement.  
+
+---
+
+## 💡 Features  
+- 🗓️ Personalized training plans (3–4 days per week)  
+- 🎧 Spotify playlist generator by BPM and genre  
+- 🧠 Notion sync for weekly plans, reflections, and motivation (coming soon)
+- 💬 AI-powered running advice  
+- 📈 Progress tracker & goal reminders  
+
+---
+
+## ⚙️ Integrations  
+| Platform | Purpose |
+|-----------|----------|
+| 🧠 **Notion** coming soon)**| Save and organize your training plans & progress |
+| 🎧 **Spotify** | Generate playlists to match your running tempo |
+| ✉️ **Email (coming soon)** | Send your plan & playlist summaries |
+
+---
+
+## 🚀 Getting Started  
+
+1. Visit **[Run Logic GPT](bit.ly/runlogicai)**  
+2. Connect your Notion and Spotify accounts  
+3. Say something like:  
+   > “Create my 10K plan and sync to Notion.”  
+4. Get your training plan, playlist, and motivation delivered instantly 🏃‍♀️  
+
+---
+
+## 🔐 Privacy & Terms  
+- **Privacy Policy:** [Notion Privacy](https://amerlatina.github.io/run-logic-ai/notion-privacy)  
+- **Privacy Policy (Spotify):** [Spotify Privacy](https://amerlatina.github.io/run-logic-ai/spotify-privacy-policy)  
+- **Terms of Use:** [View Terms](https://amerlatina.github.io/run-logic-ai/terms)
+
+---
+
+## 👩‍💻 Creator  
+**Diana Gonzalez**  
+Senior Cloud Solutions Architect | Microsoft  
+💼 [LinkedIn](https://linkedin.com/in/digonza)  
+📧 https://www.instagram.com/run_logic/
+
+---
+
+## 🏁 Inspiration  
+Born from a love for running, tech, and creativity — Run Logic blends performance with personalization.  
+> “You don’t have to run fast — you just have to start.” 💭  
+
+---
+Questions:
+contact developer using this repo
