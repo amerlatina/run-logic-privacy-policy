@@ -1,5 +1,5 @@
 # 🏃‍♀️ Run Logic GPT  
-### Your AI running companion that plans, motivates, and tracks your runs  
+
 
 
 <p align="center">
