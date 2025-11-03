@@ -24,7 +24,7 @@ It integrates seamlessly with **Notion** for tracking and **Spotify** for playli
 ## ⚙️ Integrations  
 | Platform | Purpose |
 |-----------|----------|
-| 🧠 **Notion** coming soon)**| Save and organize your training plans & progress |
+| 🧠 **Notion** (coming soon)**| Save and organize your training plans & progress |
 | 🎧 **Spotify** | Generate playlists to match your running tempo |
 | ✉️ **Email (coming soon)** | Send your plan & playlist summaries |
 
