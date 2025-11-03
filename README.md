@@ -1,6 +1,12 @@
 # 🏃‍♀️ Run Logic GPT  
 ### Your AI running companion that plans, motivates, and tracks your runs  
-![Run Logic Logo](https://raw.githubusercontent.com/amerlatina/run-logic-ai/main/RunLogicLogo.png)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amerlatina/run-logic-ai/main/RunLogicLogo.png" alt="Run Logic Logo" width="250"/>
+</p>
+
+<h3 align="center">Your AI running companion that plans, motivates, and tracks your runs 🏃‍♀️</h3>
 
 
 ---
