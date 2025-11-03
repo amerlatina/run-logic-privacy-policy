@@ -65,5 +65,17 @@ Born from a love for running, tech, and creativity — Run Logic blends performa
 > “You don’t have to run fast — you just have to start.” 💭  
 
 ---
-Questions:
-contact developer using this repo
+---
+
+## © Copyright Notice  
+
+© 2025 **Run Logic GPT**. All rights reserved.  
+
+The **Run Logic** name, GPT, logo, and visual assets (including color palette, graphics, and design elements) are the intellectual property of **Diana Gonzalez**.  
+
+These materials may not be copied, reproduced, redistributed, or used for commercial purposes without prior written permission.  
+
+For inquiries regarding usage or collaborations, please contact dev. using this repo.
+
+---
+
