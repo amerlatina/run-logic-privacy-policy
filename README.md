@@ -1,4 +1,4 @@
-# 🏃‍♀️ Run Logic GPT  
+# Run Logic GPT  
 
 
 <h1 align="center">Your AI running companion that plans, motivates, and tracks your runs 🏃‍♀️</h1>
